@@ -1,0 +1,6 @@
+Problems:
+1. Price changes for condiments will force us to alter exsiting code
+2. New condiments will for us to add new methods and alter teh cost method in the super class
+3. New beveage (cold brew?, iced tea? sweet cold brew?).  With new beverage, some condiments
+	may not apply (A Tea with whip? yuck?)
+4. Double mocha?
